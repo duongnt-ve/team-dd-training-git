@@ -13,3 +13,5 @@
 | example-yamada | 21F のカレー |
 i just add this line!
 kadai9 go go
+
+konoten no sei de reject sareru
